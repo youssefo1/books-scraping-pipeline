@@ -1,3 +1,4 @@
+[Dashboard Preview](dashboard.png)
 # Books Market Analysis — Web Scraping & Data Pipeline
 
 I built this project to practice end-to-end data work — from scraping a live website all the way to a formatted Excel report and Power BI dashboard. It's one of those projects where you realize halfway through how messy real data actually is.
